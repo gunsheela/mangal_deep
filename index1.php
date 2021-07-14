@@ -94,7 +94,7 @@
                             
 </table>
             <br>
-            <a href="index2.php" class="btn">ORDER NOW</a>
+            <a href="index.php" class="btn">ORDER NOW</a>
                 
         </div>
     

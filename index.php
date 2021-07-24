@@ -81,7 +81,14 @@
             
     }
             
-        
+       @media(max-width:308px)
+        {
+            
+            #opn{
+                font-size: 10px;
+            }
+            
+        }ś 
     </style>
 <head>
     <meta charset="UTF-8">

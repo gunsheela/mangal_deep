@@ -177,12 +177,7 @@
                 $arr=explode(",",$str);
                 $namearr=explode(":",$arr[0]);
                 $pricearr=explode(":",$arr[1]);                
-                echo"<tr>
-                
-                 <td>".$namearr[1]."</td>
-                    <td>:- ₹".$pricearr[1]."</td>
-                    
-                    </tr> "; 
+                echo"<tr><td>".$new_str[1]."<br>&nbsp;₹".$pricearr[1]."<br><br></td></tr>";
                 $i++;
             }
             ?>            

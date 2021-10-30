@@ -884,7 +884,7 @@ document.getElementById("qt"+in1).innerHTML=ch1;}
                        cell1.innerHTML = gspr[i]+"<br><br><br>"+"_____________________________________";
                        cell2.innerHTML="<br><br>"+"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;x"+gsadd[i]+"<br><br><br>"+"_____________________________________";
                        prch1[i]=prch1[i].replace('₹', '');
-                        prbs1[i]=prbs1[i].replace("kg","");
+                        prbs1[i]=prbs1[i].replace("KG","");
                         prbs1[i]=prbs1[i].trim();
                        tol[i]=parseInt(prch1[i])*parseInt(prbs1[i])*parseInt(gsadd[i]);
                        cell3.innerHTML="<br><br>"+"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= ₹"+tol[i]+"<br><br><br>"+"___________________________________";

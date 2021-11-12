@@ -23,7 +23,8 @@
                
         </nav>
 <h1 align="center">
-    Mangal Deep Food Grains
+    Mangal Deep Food Grai
+	
     </h1>
 
     <style>
